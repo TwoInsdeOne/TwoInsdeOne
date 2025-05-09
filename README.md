@@ -1,8 +1,8 @@
-## Welcome to my profile 👋
+## **Welcome to my profile** 👋
 
 This is my main profile which I use for my personal projects and colaborations.
 
-### My primary skills are
+### **My primary skills are**
 
 - Unity Game Development
 - Love2d Game/Tool Development
