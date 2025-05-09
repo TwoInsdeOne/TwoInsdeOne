@@ -1,4 +1,4 @@
-## Welcome to my profile 👋
+## **Welcome to my profile** 👋
 
 This is my main profile which I use for my personal projects and colaborations.
 
