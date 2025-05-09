@@ -1,4 +1,15 @@
-## Hi there 👋
+## Welcome to my profile 👋
+
+This is my main profile which I use for my personal projects and colaborations.
+
+### My primary skills are
+
+- Unity Game Development
+- Love2d Game/Tool Development
+- Game Design
+- Level Design
+- Game Writing
+- Music Composition / Sound Design
 
 <!--
 **TwoInsdeOne/TwoInsdeOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
